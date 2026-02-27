@@ -1,2 +1,10 @@
-# github-playground
-A practice repo to learn GitHub workflows
+# GitHub Playground
+
+This repo exists to practice GitHub features:
+- Issues
+- Branches
+- Pull requests
+- Projects
+- Wiki
+- Releases
+- GitHub Actions
